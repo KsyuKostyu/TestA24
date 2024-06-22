@@ -1,0 +1,102 @@
+User@Admin MINGW64 ~/Desktop/GitTestPr (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+User@Admin MINGW64 ~/Desktop/GitTestPr (master)
+$ git branch
+  feature_branch
+* master
+
+User@Admin MINGW64 ~/Desktop/GitTestPr (master)
+$ git log
+commit 83f0d349428ec6d13edf6e575b514c7dc6dc88d8 (HEAD -> master)
+Merge: cfe4be2 5d5b83e
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:51:16 2024 +0300
+
+    Merge https://github.com/KsyuKostyu/TestA24
+
+commit 5d5b83ef9885f32714cd6165c3195babe38d1174
+Author: Oksana Kostyuk <168230289+KsyuKostyu@users.noreply.github.com>
+Date:   Sat Jun 22 15:50:23 2024 +0300
+
+    Create newfile
+
+commit cfe4be2752b403026b81e6469f69e01e90dc86a3
+Merge: 5f4e4ae 2e56fc6
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:46:33 2024 +0300
+
+    solve merge conflict
+
+commit 5f4e4ae280fbb254d811d83be5451e668a95df98
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:26:49 2024 +0300
+
+    change in index.html
+
+commit 2e56fc603e9cf42c64cf7923e2f8965801c36d39 (feature_branch)
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:21:36 2024 +0300
+
+    new change in index.html
+
+commit 19e99a4e47eba6fd3c2b2734d688bacd5ea78307
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:20:08 2024 +0300
+
+    second change in index.html
+
+commit 419da8bb3b92b39cf2f0e5e82ffc305670309a6c
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:18:01 2024 +0300
+
+    change in file
+
+commit 26f2cee52b772cd12ebc706629e3ff4b39c4f5a3
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:14:10 2024 +0300
+
+    added new file
+(END)
+
+    Create newfile
+
+commit cfe4be2752b403026b81e6469f69e01e90dc86a3
+Merge: 5f4e4ae 2e56fc6
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:46:33 2024 +0300
+
+    solve merge conflict
+
+commit 5f4e4ae280fbb254d811d83be5451e668a95df98
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:26:49 2024 +0300
+
+    change in index.html
+
+commit 2e56fc603e9cf42c64cf7923e2f8965801c36d39 (feature_branch)
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:21:36 2024 +0300
+
+    new change in index.html
+
+commit 19e99a4e47eba6fd3c2b2734d688bacd5ea78307
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:20:08 2024 +0300
+
+    second change in index.html
+
+commit 419da8bb3b92b39cf2f0e5e82ffc305670309a6c
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:18:01 2024 +0300
+
+    change in file
+
+commit 26f2cee52b772cd12ebc706629e3ff4b39c4f5a3
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:14:10 2024 +0300
+
+    added new file
+
