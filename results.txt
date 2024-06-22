@@ -100,3 +100,20 @@ Date:   Sat Jun 22 15:14:10 2024 +0300
 
     added new file
 
+
+User@Admin MINGW64 ~/Desktop/GitTestPr (master)
+$ git log --merges
+commit 83f0d349428ec6d13edf6e575b514c7dc6dc88d8
+Merge: cfe4be2 5d5b83e
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:51:16 2024 +0300
+
+    Merge https://github.com/KsyuKostyu/TestA24
+
+commit cfe4be2752b403026b81e6469f69e01e90dc86a3
+Merge: 5f4e4ae 2e56fc6
+Author: KsyuKostyu <okkostyu@gmail.com>
+Date:   Sat Jun 22 15:46:33 2024 +0300
+
+    solve merge conflict
+
